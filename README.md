@@ -19,14 +19,14 @@ Key Features:<br>
 ✅ Data cleaning and preprocessing<br>
 
 ✅ PostgreSQL database integration<br>
-   ![Prediction Model Screenshot](./images/table.png)
-   ![Prediction Model Screenshot](./images/schema.png)
+   ![Prediction Model Screenshot](./image/table.png)
+   ![Prediction Model Screenshot](./image/schema.png)
 
 ✅ RESTful API endpoints for prediction services<br>
-    ![Prediction Model Screenshot](./images/api.png)
+    ![Prediction Model Screenshot](./image/api.png)
 
 ✅ Predictive models using rule-based logic and machine learning<br>
-    ![Prediction Model Screenshot](./images/rm.png)
+    ![Prediction Model Screenshot](./image/rm.png)
 
 👨‍💻 Projects & Interests<br>
 I'm currently expanding my skills in:
