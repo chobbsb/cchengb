@@ -8,8 +8,8 @@ I’m a driven Computer Science student with a passion for problem-solving, syst
 
 👨‍💻 Software Development Projects<br>
 
-🧠 [Capstone Project: MMA Prediction Model](https://github.com/vbabatchev/mma-prediction-model/)
-Our team is developing a data-driven model to predict outcomes in Mixed Martial Arts (MMA) competitions.
+🧠 [Capstone Project: MMA Prediction Model](https://github.com/vbabatchev/mma-prediction-model/)<br>
+Our team is developing a data-driven model to predict outcomes in Mixed Martial Arts (MMA) competitions.<br>
 Goal: Improve fight outcome predictions using machine learning and statistical analysis.
 
 Key Features:<br>
