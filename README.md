@@ -43,6 +43,6 @@ I enjoy exploring how things work under the hood and am naturally inclined towar
 
 🏫 Education<br>
 Bachelor of Science in Computer Science
-Oregon State University (Online) — Expected Graduation: July 2025
+Oregon State University — Graduation: June 2025
 
 Please check out my portfolio to get know about me https://cchengb.github.io/ 
