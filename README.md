@@ -45,4 +45,4 @@ I enjoy exploring how things work under the hood and am naturally inclined towar
 Bachelor of Science in Computer Science
 Oregon State University — Graduation: June 2025
 
-Please check out my portfolio to get know about me https://cchengb.github.io/ 
+Please check out my portfolio to get know about me https://chobbsb.github.io/ 
